@@ -1,5 +1,5 @@
 # AWS_Certified_Cloud_Practitioner
 
-create AWS account
+1. create AWS account
 
-set up a budget
+2. set up a budget
