@@ -24,6 +24,8 @@
 
 * You can stop guessing capacity
 
-# You can increase speed on demand
+* You can increase speed on demand
 
-# Go global in minutes
+* Go global in minutes
+
+# Types of cloud computing
